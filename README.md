@@ -2,14 +2,14 @@
 JSON Parser for Charles logs.
 
 # Requirements:
-Python 3.x
-ConfigObj 5.0.6
-PyQt5 5.13.0
+Python 3.x<br />
+ConfigObj 5.0.6<br />
+PyQt5 5.13.0<br />
 
 
 # Installation
-pip install ConfigObj
-pip install PyQt5
+pip install ConfigObj<br />
+pip install PyQt5<br />
 
 
 ![GitHub Logo](/images/img1.png)
