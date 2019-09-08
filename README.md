@@ -11,6 +11,11 @@ PyQt5 5.13.0<br />
 pip install ConfigObj<br />
 pip install PyQt5<br />
 
+# Getting Started
+Navigate to main.py in your terminal and execute.<br />
+<br />
+`python main.py`
+
 
 ![GitHub Logo](/images/img1.png)
 
