@@ -17,6 +17,11 @@ Navigate to main.py in your terminal and execute.<br />
 `python main.py`
 
 
+
+
 ![GitHub Logo](/images/img1.png)
 
+![GitHub Logo](/images/img2.png)
+
+![GitHub Logo](/images/img3.png)
 
